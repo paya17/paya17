@@ -1,14 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=130&section=header&fontSize=90)
 
 ## Hi! I'm Yoojin 🤗
-- Ewha Womans Univ Mechanical&Biomedical engineering
-- Frontend engineer
+- Ewha Womans Univ Mechanical&Biomedical Engineering
+- Frontend Engineer
 
 <br>
 
 ## Work experience 🏃‍♂️
 - (2022.03 - 2022.12) 이화여자대학교 웹개발 동아리 EFUB 2기 Frontend Lead
 - (2022.12) 이화여자대학교 공학교육혁신센터 캡스톤디자인 경진대회 '라꾸라꾸' 장려상
+- (2022.03 - ) 신촌연합 IT 창업 동아리 CEOS 17기 Frontend
 
 <br>
 
