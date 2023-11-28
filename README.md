@@ -7,9 +7,9 @@
 <br>
 
 ## Work experience 🏃‍♂️
-- (2022.03 - 2022.12) 이화여자대학교 웹개발 동아리 EFUB 2기 Frontend Lead
+- (2022.03 - 2022.12) 이화여자대학교 웹개발 동아리 EFUB 2기 FE Lead
 - (2022.12) 이화여자대학교 공학교육혁신센터 캡스톤디자인 경진대회 '라꾸라꾸' 장려상
-- (2023.03 - ) 신촌연합 IT 창업 동아리 CEOS 17기 Frontend
+- (2023.03 - 2023.08) 신촌연합 IT 창업 동아리 CEOS 17기 FE
 
 <br>
 
@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=React&logoColor=white"/> 
 <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledComponents&logoColor=white"/> 
@@ -32,8 +33,6 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 
 <br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=130&section=footer&fontSize=90)
 
 
 <!--
