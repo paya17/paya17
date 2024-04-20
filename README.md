@@ -22,7 +22,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledComponents&logoColor=white"/> 
 
 **Tools**
